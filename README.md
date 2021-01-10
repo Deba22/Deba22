@@ -36,9 +36,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/debasish-gracias-47456a136"><img alt="LinkedIn" src="https://img.shields.io/badge/Debasish%20Gracias-231e4f?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/deba_gracias/"><img alt="Instagram" src="https://img.shields.io/badge/debasish__-231e4f?style=flat-square&logo=instagram"></a>
-<a href="mailto:debagracias@gmail.com"><img alt="Email" src="https://img.shields.io/badge/debagracias@gmail.com-231e4f?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/debasish-gracias-47456a136"><img alt="LinkedIn" src="https://img.shields.io/badge/Debasish%20Gracias-3423A6?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/deba_gracias/"><img alt="Instagram" src="https://img.shields.io/badge/debasish__-E4405F?style=flat-square&logo=instagram"></a>
+<a href="mailto:debagracias@gmail.com"><img alt="Email" src="https://img.shields.io/badge/debagracias@gmail.com-D14836?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Deba22](https://github.com/Deba22)
