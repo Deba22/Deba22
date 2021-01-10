@@ -11,22 +11,22 @@
 - 📱 &nbsp;
   ![Xamarin](https://img.shields.io/badge/-Xamarin-231e4f?style=flat&logo=Xamarin)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-231e4f?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-231e4f?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-231e4f?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-231e4f?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-231e4f?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
-  ![Firebase Firestore](https://img.shields.io/badge/-Firebase%20Firestore-333333?style=flat&logo=Firebase)
+  ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-231e4f?style=flat&logo=Microsoft-SQL-Server)
+  ![Firebase Firestore](https://img.shields.io/badge/-Firebase%20Firestore-231e4f?style=flat&logo=Firebase)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-231e4f?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-231e4f?style=flat&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-231e4f?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-231e4f?style=flat&logo=visual-studio&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Figma](https://img.shields.io/badge/-Figma-231e4f?style=flat&logo=figma)
 
 <br/>
 
