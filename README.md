@@ -9,6 +9,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 📱 &nbsp;&nbsp;
+  ![C Sharp](https://img.shields.io/badge/-C%20Sharp-231e4f?style=flat&logo=c-sharp)
   ![Xamarin](https://img.shields.io/badge/-Xamarin-231e4f?style=flat&logo=Xamarin)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-231e4f?style=flat&logo=HTML5)
