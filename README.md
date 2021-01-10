@@ -30,12 +30,6 @@
 
 <br/>
 
-<a href="https://github.com/Deba22">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Deba22&theme=buefy&show_icons=true" />
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deba22&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -61,4 +55,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+
+<a href="https://github.com/Deba22">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Deba22&theme=buefy&show_icons=true" />
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deba22&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 -->
