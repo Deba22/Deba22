@@ -14,8 +14,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-231e4f?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-231e4f?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-231e4f?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-231e4f?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-231e4f?style=flat&logo=react)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-231e4f?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Material-UI](https://img.shields.io/badge/-Material-UI-231e4f?style=flat&logo=Material-UI)
 - 🛢 &nbsp;&nbsp;
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-231e4f?style=flat&logo=Microsoft-SQL-Server)
   ![Firebase Firestore](https://img.shields.io/badge/-Firebase%20Firestore-231e4f?style=flat&logo=Firebase)
