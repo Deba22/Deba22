@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Support Developer at ClerksWell.
-- 🌱 &nbsp; Learning more about React JS, Next JS and no code platform like Bravo Studio.
+- 🌱 &nbsp; Learning more about Umbraco, React JS, Next JS and no code platform like Bravo Studio.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
