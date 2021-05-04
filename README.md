@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Support Developer at ClerksWell.
+- 💼 &nbsp; Working as a Developer at ClerksWell.
 - 🌱 &nbsp; Learning more about Umbraco, React JS, Next JS and no code platform like Bravo Studio.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
